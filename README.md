@@ -16,3 +16,30 @@ Note: This will impact Vite dev & build performances.
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Creative Agency Showcase
+
+## Description
+A modern React application for showcasing creative projects.
+
+## Features
+- Add projects dynamically
+- Search projects
+- Responsive design
+- Modern UI
+
+## Installation
+
+npm install
+npm run dev
+
+## Technologies
+- React
+- Vite
+- Tailwind CSS
+- React Testing Library
+
+## Future Improvements
+- Backend integration
+- Authentication
+- Project editing
+- Dark mode
